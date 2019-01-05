@@ -45,7 +45,7 @@ Jan 2015- June 2016: _Software Engineer_ - **Cerner Health Care Solutions** _, (
 ### ACHIEVEMENTS **:**
 
 - Conducted a workshop, &quot;Fun with Node.JS **&quot;** , for final year computer engineering students at Amrita vishwa Vidyapeetham.
-- Presented paper _&quot;_DES Security Enhancement With Dynamic Permutation_&quot;_ in an **IEEE** conference _iCATccT_ n November 2015
+- Presented paper _&quot;_DES Security Enhancement With Dynamic Permutation_&quot;_ in an **IEEE** conference _iCATccT_ n November 2015 https://ieeexplore.ieee.org/document/7456846/
 - Organized BarCamp Kerala 15 on April 2014 at Amrita Vishwa Vidyapeetham
 - Internship with Amrita Vishwa Vidyapeetham, Software Development Team for developing software that automated the working of the reprographic center of the University on         June 2013. using Zend framework, PHP, HTML5,CSS3
 - Managed Registration and accommodation department for ACM ICPC on December 2013.
