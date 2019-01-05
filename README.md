@@ -102,8 +102,10 @@ Designed and developed software that manages the administration of ACM ICPC. _Us
 ### ACADEMIC BACKGROUND : 
 
 - Masters in computer Application (MCA):
+
              Graduated on May 2015          CGPA: 7.95 out of 10
 - BSC in Computer Science
+
              Graduated on May 2013         CGPA: 8.25 out of 10
 
 ### PERSONAL INFORMATION
