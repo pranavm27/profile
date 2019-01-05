@@ -62,15 +62,18 @@ Jan 2015- June 2016: _Software Engineer_ - **Cerner Health Care Solutions** _, (
 
 (web tesla) conducted by Mitra Association on November 2013.
 
-### PROJECTS : 
 
--**** Domain hunting Tool: [October 2018]
+### Freelance Projects
+- Domain hunting Tool: [October 2018]
 
  An application that can be used for searching domain names in various services, save a domain name of your choice and get an email alert when it becomes available. _Using:_ _Django and SQLite_
 
 -  Media Streaming Module: [September 2015]
 
  A media Streaming module using Raspberry Pi, to which we can connect any mobile device via wifi and stream music and movies on that mobile device. _Using:_ _Raspberry_ _Pi, Android, python._
+
+
+### PROJECTS : 
 
 - Vinayaka&quot; Contest Management System:
 
