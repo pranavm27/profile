@@ -5,7 +5,7 @@ Mob        : +91-8281-856-736
 
 Email        : [m.pranav@ymail.com](mailto:m.pranav@ymail.com)
 
-Instagram        : instagram.com/pranav.manmadhan
+Instagram        : https://www.instagram.com/pranav.manmadhan/
 
 ### OBJECTIVE **:**
 
