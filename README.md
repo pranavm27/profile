@@ -62,7 +62,7 @@ Jan 2015- June 2016: _Software Engineer_ - **Cerner Health Care Solutions** _, (
 
 (web tesla) conducted by Mitra Association on November 2013.
 
-### PROJECTS :  **
+### PROJECTS : 
 
 -**** Domain hunting Tool: [October 2018]
 
@@ -88,7 +88,7 @@ Designing and developed a centralized portal for all the services provided by Am
 
 Designed and developed software that manages the administration of ACM ICPC. _Using: PHP, HTML5, Ajax, JQuery, CSS3, MySQL._
 
-### TECHNOLOGIES FAMILIAR WITH:**
+### TECHNOLOGIES FAMILIAR WITH: 
 
 - Programing Languages: Node.Js Angular, JavaScript, RubyOnRails, Python, and Java.
 - Database : MySQL, Mongo DB, SQLite,
@@ -96,19 +96,15 @@ Designed and developed software that manages the administration of ACM ICPC. _Us
 - Tools: Git, Jira, Crucible, Jenkins, Agile, Scrum.
 - Environments : Unix, Linux and Windows
 
-### ACADEMIC BACKGROUND :**
+### ACADEMIC BACKGROUND : 
 
 - Masters in computer Application (MCA):
-
              Graduated on May 2015          CGPA: 7.95 out of 10
-
 - BSC in Computer Science
-
              Graduated on May 2013         CGPA: 8.25 out of 10
 
 ### PERSONAL INFORMATION
-
--  Date of birth : 1# st February 1991
+-  Date of birth : 1st February 1991
 -  Language      : English, Hindi, Malayalam and Tamil
 -  Address       : Palappallil Tapasya, pullikanakku po, kayamkulam, Alappuzha, Kerala, India #690537
-- Country        : India
+-  Country       : India
