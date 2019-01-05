@@ -35,14 +35,14 @@ Jan 2015- June 2016: _Software Engineer_ - **Cerner Health Care Solutions** _, (
 - Designed dashboard in _Splunk_ for analyzing usage patterns of application and patterns of intermittent failures of application.
 - Initiated and led the designed and development of _Data Validation Tool_, which is useful for validate data with in different domains.
 
-# OPEN SOURCE CONTRIBUTION:
+### OPEN SOURCE CONTRIBUTION:
 
 - **Fixed a bug in mozilla firefox :** Successfully fixed, **bug #1026272** under the guidance of Heather Arthur
 - **Reported a bug in tiny\_tds :**  A gem in rails used to connect with MSSql database.
 - **Integrated mooshak  with moss :** Successfully integrated mooshakwith MOSS for plagiarism detection.
 - **Mooshak :** Successfully integrated a menu that invokes a shell script, in Mooshak (an online programing contest management system) to export passwords to an excel sheet.
 
-**ACHIEVEMENTS **:**
+### ACHIEVEMENTS **:**
 
 - Conducted a workshop, &quot;Fun with Node.JS **&quot;** , for final year computer engineering students at Amrita vishwa Vidyapeetham.
 - Presented paper _&quot;_DES Security Enhancement With Dynamic Permutation_&quot;_ in an **IEEE** conference _iCATccT_ n November 2015
@@ -52,7 +52,7 @@ Jan 2015- June 2016: _Software Engineer_ - **Cerner Health Care Solutions** _, (
 - Participated in a workshop on new FirefoxOS, conducted by Mozilla. Developed a game,         Snake, on Firefox OS. On July 2013.
 - Participated for ACM-ICPC online competition on October 2012.
 
-SEMINARS **:**
+### SEMINARS **:**
 
 - **Common errors while using JavaScript ,** in a JavaScript conference **KeralaJS** n September 2018.
 
@@ -62,7 +62,7 @@ SEMINARS **:**
 
 (web tesla) conducted by Mitra Association on November 2013.
 
-**PROJECTS :  **
+### PROJECTS :  **
 
 -**** Domain hunting Tool: [October 2018]
 
@@ -88,7 +88,7 @@ Designing and developed a centralized portal for all the services provided by Am
 
 Designed and developed software that manages the administration of ACM ICPC. _Using: PHP, HTML5, Ajax, JQuery, CSS3, MySQL._
 
-**TECHNOLOGIES FAMILIAR WITH:**
+### TECHNOLOGIES FAMILIAR WITH:**
 
 - Programing Languages: Node.Js Angular, JavaScript, RubyOnRails, Python, and Java.
 - Database : MySQL, Mongo DB, SQLite,
@@ -96,7 +96,7 @@ Designed and developed software that manages the administration of ACM ICPC. _Us
 - Tools: Git, Jira, Crucible, Jenkins, Agile, Scrum.
 - Environments : Unix, Linux and Windows
 
-**ACADEMIC BACKGROUND :**
+### ACADEMIC BACKGROUND :**
 
 - Masters in computer Application (MCA):
 
@@ -106,7 +106,7 @@ Designed and developed software that manages the administration of ACM ICPC. _Us
 
              Graduated on May 2013         CGPA: 8.25 out of 10
 
-## PERSONAL INFORMATION
+### PERSONAL INFORMATION
 
 -  Date of birth : 1# st February 1991
 -  Language      : English, Hindi, Malayalam and Tamil
