@@ -7,33 +7,6 @@ Email        : [m.pranav@ymail.com](mailto:m.pranav@ymail.com)
 
 Instagram        : https://www.instagram.com/pranav.manmadhan/
 
-### OBJECTIVE **:**
-
-To build a successful career in a firm where I can explore and use my technical expertise to the maximum. Learn new things and face new challenges, so that I can be productive to the firm as well as myself.
-
-### PROFESSIONAL EXPERIENCE:
-
-Sep2017–till date: _Software__Developer -_ **Plus91 Technologies Pvt.Ltd (R**_&amp;D Team)_
-
-- Designed and Developed online learning portal **VTR** , for medical professionals in Ghana and an offline android app for the same.
-- Developed a hybrid mobile application for patients to view and manage their appointments using ionic framework.
-- Lead the development of the mobile application **medixcel-lite** (an offline data collection app) and its administration and management web application.
-- Designed a **Form Generation Engine** , which could generate customized forms based on a JSON model.
-- Designed an **App Generation Engine** which could generate data collection apps having predefined screens and forms automatically based on a JSON.
-- Mentored an intern for 3 months, trained him on JavaScript and browser extension development.
-
-July 2016 – Sep2017: _Software__Developer_- **FOA GrowthTech.Pvt.Ltd &amp; Plus91 Technologies Pvt.Ltd**
-
-- Responsible for designing and developing the beta version of the software dazzletoday.
-- Identifying, refactoring and incorporating features for the clients.
-- Also responsible for developing mobile app Dazzler.
-- Lead a team of three which was responsible for identifying the pain points of the application Dazzletoday then refactoring and optimizing the application for better performance
-
-Jan 2015- June 2016: _Software Engineer_ - **Cerner Health Care Solutions** _, (Revenue Cycle Analytics)_
-
-- Designed and developed Hadoop pipelines for extracting and processing data in HBase, and designed front end matrices for descriptive analysis.
-- Designed dashboard in _Splunk_ for analyzing usage patterns of application and patterns of intermittent failures of application.
-- Initiated and led the designed and development of _Data Validation Tool_, which is useful for validate data with in different domains.
 
 ### OPEN SOURCE CONTRIBUTION:
 
