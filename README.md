@@ -7,6 +7,7 @@ Email        : [m.pranav@ymail.com](mailto:m.pranav@ymail.com)
 
 Instagram        : https://www.instagram.com/pranav.manmadhan/
 
+<a href="https://app.daily.dev/pranavm27"><img src="https://api.daily.dev/devcards/fb4a9dd9ae3a489b8975019188cd2959.png?r=wf4" width="400" alt="Pranav Manmadhan's Dev Card"/></a>
 
 ### OPEN SOURCE CONTRIBUTION:
 
