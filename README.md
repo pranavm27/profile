@@ -1,8 +1,6 @@
 
 # **PRANAV Manmadhan** <a href="https://app.daily.dev/pranavm27"><img src="https://api.daily.dev/devcards/fb4a9dd9ae3a489b8975019188cd2959.png?r=wf4" width="400" alt="Pranav Manmadhan's Dev Card"/></a>
 
-<a href="https://app.daily.dev/pranavm27"><img src="https://api.daily.dev/devcards/fb4a9dd9ae3a489b8975019188cd2959.png?r=00z" width="400" alt="Pranav Manmadhan's Dev Card"/></a>
-
 Mob        : +91-8281-856-736
 
 Email        : [m.pranav@ymail.com](mailto:m.pranav@ymail.com)
